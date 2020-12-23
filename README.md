@@ -5,9 +5,7 @@ We're going to walk you how to deploy a MERN stack app to Uffizzi.
 MERN (Mongo, express, React, and Nodejs)
 
 ### Perequesites
-1- [Free account on Uffizzi](https://uffizzi.com)
-
-2- [Git Installed](https://git-scm.com/downloads)
+- [Free account on Uffizzi](https://uffizzi.com)
 
 > Note: all these steps below are done inside the main `server.js` file. In our case, inside server.js. 
 
