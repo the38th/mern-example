@@ -67,15 +67,7 @@ We should end up having something like this
 #### Step 4
 > `package.json`
 
-You don't want to always keep doing `npm run build` to generate the build folder for you every time you do a change. We can let Uffizzi do it for us:
-
-Uffizzi has 2 builds scripts that you can run either before or after the build. 
-
-- heroku-prebuild
-
-- heroku-postbuild
-
-We're going to use the `heroku-postbuild` one. This is a change that we need to do inside the package.json, under the scripts section.
+You don't want to always keep doing `npm run build` to generate the build folder for you every time you do a change. We can let Uffizzi do it for us by using Node.js build scripts. Add the following line to the scripts block in package.json:
 
 It should look like this
-![Heroku Post Build](public/images/heroku-postbuild.png);
+![Build Script](public/images/build.png);
