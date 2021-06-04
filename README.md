@@ -1,6 +1,6 @@
-# Deploying MERN Stack to Uffizzi
+# Deploying MERN Stack to Uffizzi Pro
 
-We're going to walk you how to deploy a MERN stack app to Uffizzi.
+We're going to walk you how to deploy a MERN stack app to Uffizzi Pro.
 
 MERN (Mongo, express, React, and Nodejs)
 
